@@ -1,4 +1,4 @@
-<h1>The Zork <h1>
+<h1>The Zork<h1>
 
 <p>I listen carefully as you speak<br>
 "Turn left, head north, you're approaching a peak"<br>
