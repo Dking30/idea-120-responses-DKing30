@@ -10,11 +10,11 @@ Thanks, Zork for seeing me through
   
  Video: https://www.youtube.com/watch?v=ufO7mgQACbo
 
- **Robot
+ **Robot**
  
  ![Robot Helper](https://ae01.alicdn.com/kf/Hdca527c136ff4f7fbf25938712e0be03R/Mini-Robot-Wireless-Bluetooth-Speakers-with-Power-Bank-Support-TF-AUX-Portable-Mp3-Stereo-Music-Player.jpg_350x350.jpg)<br>
  
- **GPS
+ **GPS**
  
  ![Navigation](http://www.itfixtech.com/admin_sonika/image/2017-11-22-11-09-01google-maps-ilustracion.jpg)
 
