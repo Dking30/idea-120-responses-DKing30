@@ -1,5 +1,5 @@
 ![New Balance](https://d3nuqriibqh3vw.cloudfront.net/nb1_aotw.jpg)
-titled: "New Balance Ad"
+titled: #"New Balance Ad"
 
 **The Linguistic Message:
 
