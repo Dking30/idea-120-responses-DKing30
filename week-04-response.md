@@ -1,7 +1,8 @@
+# New Balance Ad
 ![New Balance](https://d3nuqriibqh3vw.cloudfront.net/nb1_aotw.jpg)
 titled: "New Balance Ad"
 
-**The Linguistic Message:
+**The Linguistic Message:**
 
 In literal form, the ad is displaying an athlete running. The male figure is showcasing a use for the New Balance gym shoe.
 
@@ -9,14 +10,14 @@ In literal form, the ad is displaying an athlete running. The male figure is sho
 - Green gym shoe (New Balance) can be seen emphasized  
 
 
-**The Iconic Message:
+**The Iconic Message:**
 
 The image depicts a male figure in athletic apparel. The figure can be seen as running in place or the motion of running forward. This demonstrates that this individual is athletic and gives purpose for the shoe.
 
 - The shoe is for athletic individuals
 
 
-**The Symbolic Message:
+**The Symbolic Message:**
 
 The image can be seen as representing strength and agility.
 
