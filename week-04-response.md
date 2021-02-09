@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # New Balance Ad
+=======
+# "New Balance Ad"
+>>>>>>> 29406bf7f099af75afbb85cfa5b2836ffb35b766
 ![New Balance](https://d3nuqriibqh3vw.cloudfront.net/nb1_aotw.jpg)
 titled: "New Balance Ad"
 
